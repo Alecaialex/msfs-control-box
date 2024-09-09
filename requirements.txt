@@ -1,0 +1,3 @@
+Raspberry Pi (Im using Raspberry Pi 4)
+Touch screen (You can also add real buttons around it)
+2 rotatory encoders
