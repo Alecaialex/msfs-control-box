@@ -1,0 +1,3 @@
+This was really easy. I used FlyByWire to install SimBridge, then selected 'Remote Display' from the FBW icon in the system tray and clicked 'MCDU.' This opens the plane’s MCDU on a webpage.
+On my Raspberry Pi, I installed a standard operating system, accessed the same link hosted on my computer, set the webpage to full screen, and that's it! You now have a fully functioning MCDU on a remote screen.
+In my case I just used the touchscreen, but you can add buttons on both sides/bellow and make them function as the mcdu ones.
